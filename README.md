@@ -1,22 +1,20 @@
 # QExplorer
 QExplorer is cubechain file explorer for cubechain developer.
 
-# FILE
+## FILE
 FILE can view Chain,Cube,Block in file viewer.
 
-# CHAIN
+## CHAIN
 BLOCK can view Chain file.
 
-# CUBE
+## CUBE
 BLOCK can view Cube file.
 
-# BLOCK
+## BLOCK
 BLOCK can view Block file.
 
-
-# DATACENTER
+## DATACENTER
 Datacenter is cubechain file download from datacenter server.
 
-
-# SETTING
+## SETTING
 Setting is cubechain file path setting in default path.
